@@ -10287,7 +10287,7 @@ runcode(function()
 				debug.setconstant(bedwars["QueueCard"].render, 9, 0.01)
 			end
 		end,
-		["HoverText"] = "Fixes game bugs"
+		["HoverText"] = "Fixes stupid ass bugs"
 	})
 end)
 
